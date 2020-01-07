@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
     int totalScoreB = 0;
 
     /**
-     * Changing team A points COMMIT TEST 
+     * Changing team A points
      **/
     public void add3PointsA(View view) {
         totalScoreA = totalScoreA + 3;
